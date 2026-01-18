@@ -60,7 +60,7 @@ The final outcome is a **user-friendly web application** that allows users to in
 ---
 
 ## 📁 Project Structure
-
+```
 smart-home-energy-prediction/
 │
 ├── app.py
@@ -80,7 +80,7 @@ smart-home-energy-prediction/
 │ └── Prediction_comparison.png
 │
 └── README.md
-
+```
 ---
 
 ## 🖥️ Streamlit Application Screenshots
